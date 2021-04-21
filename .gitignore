@@ -49,3 +49,6 @@ package-lock.json
 
 .DS_Store
 *.db
+
+.vscode
+custom-sentence-plugin/package-lock.json
